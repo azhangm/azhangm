@@ -2,9 +2,10 @@
 <a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=azhangm&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
 
-I'm a front-end developer
+I'm a back-end developer
 
-My Website: [passer-by.com](https://passer-by.com)
+稀土掘金 : https://juejin.cn/user/567772169635454
+leetcode ： https://leetcode.cn/u/dajuancai/
 
 
 <!--
